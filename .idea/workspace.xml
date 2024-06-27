@@ -4,40 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2566a32b-9ca6-41c1-a78a-c1f8e5551d10" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/itAcademyDjango.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/example/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/university/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="2566a32b-9ca6-41c1-a78a-c1f8e5551d10" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2iSKNeedVX4WQLOR4ggApYX0zlf" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,7 +33,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "develop"
   }
 }]]></component>
   <component name="SharedIndexes">
