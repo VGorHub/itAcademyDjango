@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2566a32b-9ca6-41c1-a78a-c1f8e5551d10" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/itAcademyDjango.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/example/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/university/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2iSKNeedVX4WQLOR4ggApYX0zlf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2566a32b-9ca6-41c1-a78a-c1f8e5551d10" name="Changes" comment="" />
+      <created>1719478499975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719478499975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/example/example/asgi.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
